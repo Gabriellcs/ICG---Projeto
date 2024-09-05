@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'CC Overbyte';
+    src: local('CC Overbyte Off Regular'), local('CC-Overbyte-Off-Regular'),
+        url('CCOverbyteOffW00-Regular.woff2') format('woff2'),
+        url('CCOverbyteOffW00-Regular.woff') format('woff'),
+        url('CCOverbyteOffW00-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
